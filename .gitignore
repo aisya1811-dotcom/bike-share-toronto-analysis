@@ -1,0 +1,13 @@
+# Data dan hasil olahan (berukuran besar, dibuat saat skrip dijalankan)
+*.csv
+*.rds
+Data/
+Hasil_EDA/
+Hasil_Korelasi/
+Hasil_Regresi/
+
+# File R dan sistem
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
